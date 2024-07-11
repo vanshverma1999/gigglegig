@@ -5,7 +5,7 @@ import com.gigglegig.model.request.LoginUserDto;
 import com.gigglegig.model.request.RegisterUserDto;
 import com.gigglegig.model.response.LoginResponse;
 import com.gigglegig.security.JwtService;
-import com.gigglegig.service.AuthenticationService;
+import com.gigglegig.security.AuthenticationService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

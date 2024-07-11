@@ -1,4 +1,4 @@
-package com.gigglegig.service;
+package com.gigglegig.security;
 
 import com.gigglegig.model.User;
 import com.gigglegig.model.request.LoginUserDto;
