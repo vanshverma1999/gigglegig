@@ -27,7 +27,7 @@ public class ServiceProviders {
 
     @ManyToOne
     @JoinColumn(name = "user_id")
-    private Users user;
+    private User user;
 
     @ManyToOne
     @JoinColumn(name = "company_id")
